@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rianadi
-- 👀 I’m interested in programming
+- 👀 I’m interested in web programming
 - 🌱 I’m currently learning full-stack-web-developer
-- 📫 How to reach me // Call my name
 
 <!---
 Rianadi/Rianadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
