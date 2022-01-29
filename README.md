@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rianadi
+- 👋 Hi, I’m @Rianadi aka Fikri Dean Radityo
 - 👀 I’m interested in web programming
 - 🌱 I’m currently learning full-stack-web-developer
 
